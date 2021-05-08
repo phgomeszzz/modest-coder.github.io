@@ -16,8 +16,12 @@ $ npm run start
 # generate static project
 $ npm run generate
 
-# to deploy the static files to the github pages (dev-dependencies => gh-pages)
+# Deploy the static files to the github pages (dev-dependencies => gh-pages)
 $ npm run deploy
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+## Adding external "vanilla" libraries (CDN)
+- https://medium.com/@jpoechill/quick-add-bootstrap-4-to-your-nuxt-js-app-f05fce00b74a
+
+## Adding MDBootstrap "vanilla" libraries (CDN)
+- https://mdbootstrap.com/docs/b4/jquery/getting-started/cdn/
